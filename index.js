@@ -1,17 +1,18 @@
-function open() {
-    while(true) {
-        console.log('Entrou');
-        return;
-    }
-}
-open();
+const start = () => {
 
-function start() {
-    let count = 1;
-    while(count <= 10){
-        console.log(count);
-        count++;
-        // count = count + 1;
+    while(true) {
+        let opcao = "sair";
+        
+        switch(opcao) {
+            case "cadastrar":
+                console.log("Vamos cadastrar")
+                break;
+            case "listar":
+                console.log("Vamos listar");
+                break;
+            case "sair":
+                return;
+        }
     }
 }
 start();
