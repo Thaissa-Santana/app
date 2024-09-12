@@ -1,21 +1,14 @@
-// hello world
-
-console.log("Hello World!");
-
-// arrays, objetos
-
-let metas = ["Mayk", "Alô"];
-console.log(metas[1] + " " + metas[0]);
 
 let meta = {
     value: 'Ler um livro por mês',
-    checked: false,
-    log: (info) => {console.log (info)}   
-}
+    checked: true,
+   }  
 
-meta.log(meta.value);
+let metas = [
+    meta, {
+        value: "Caminhar 20 minutos todos os dias",
+        checked: false
+    }
+]
 
-// function // arrow function
-
-// const criarMeta = () => {}
-function criarMeta () {}
+console.log(metas[0].value);
