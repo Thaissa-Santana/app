@@ -42,13 +42,16 @@
 + Arrays: Uma lista que contém qualquer tipo de dado.
 
 + Objetos: 
-           [x] - Atributos e métodos; 
-           [x] - Criação e manipulação de objetos;
-           [x] - Acesso a propriedade de objetos;
+        [x] - Atributos e métodos; 
+        [x] - Criação e manipulação de objetos;
+        [x] - Acesso a propriedade de objetos;
 
 + Funtions: 
-            [x] - Criar, passar argumento.
-            [x] - Executar
-            [x] - Arrow function / named function.
+        [x] - Criar, passar argumento.
+        [x] - Executar
+        [x] - Arrow function / named function.
 
++ Estrutura de repetição:
 
+        [x] - While
+        
