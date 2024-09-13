@@ -52,10 +52,17 @@
         [x] - Arrow function / named function.
 
 + Estrutura de repetição:
-
-        [x] - While
+[x] - While
 
 + Condicionais:
 
-        [x] - Switch
-        
+[x] - Switch
+
+## MÓDULOS EM NODE.JS
+
+[x] - Importação de módulos(require, CommonJS).
+[x] - Biblioteca 'inquirer' para criar prompts interativos.
+
+## PROGRAMAÇÃO ASSÍNCRONA E PROMISES
+
+[x] - Uso de funçoes assíncronas (async/await)
