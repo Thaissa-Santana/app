@@ -36,6 +36,7 @@
 
 [x] - Operador de atribuição de valor (=)
 [x] - Operador de contatenação (+)
+[x] - Operadores de comparação ( ==, !=, <=, >=, <, >)
 
 ## ESTRUTURA DE DADOS
 
@@ -57,6 +58,7 @@
 + Condicionais:
 
 [x] - Switch
+[x] - if/else
 
 ## MÓDULOS EM NODE.JS
 
