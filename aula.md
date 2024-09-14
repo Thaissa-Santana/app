@@ -3,7 +3,7 @@
 - Maneira de dar instruções ao computador.
 - Como um lego você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-+ ALGORITMOS: Sequência de passos lógicos e finito para resolver um problema.
++ ALGORITMO: Sequência de passos lógicos e finito para resolver um problema.
 
 ## PEÇAS DE UMA LINGUAGEM:
 
@@ -44,7 +44,7 @@
 + Arrays: 
 
 [x] - Uma lista que contém qualquer tipo de dado
-[x] - Métodos de array: [push, find, forEach, filter] - HOF (Higher Order Functions)
+[x] - Métodos de array: [push, find, forEach, filter, map] - HOF (Higher Order Functions)
 
 + Objetos: 
         [x] - Atributos e métodos; 
