@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Andar de bicicleta",
+    "checked": false
+  },
+  {
+    "value": "Meditar 6 minutos 5x na semana",
+    "checked": true
+  },
+  {
+    "value": "Ler por 20 minutos 3x na semana",
+    "checked": false
+  },
+  {
+    "value": "Estudar espanhol por 1h todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": false
+  }
+]
