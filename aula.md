@@ -37,10 +37,14 @@
 [x] - Operador de atribuição de valor (=)
 [x] - Operador de contatenação (+)
 [x] - Operadores de comparação ( ==, !=, <=, >=, <, >)
+[x] - Spread operator (...)
 
 ## ESTRUTURA DE DADOS
 
-+ Arrays: Uma lista que contém qualquer tipo de dado.
++ Arrays: 
+
+[x] - Uma lista que contém qualquer tipo de dado
+[x] - Métodos de array: [push, find, forEach, filter] - HOF (Higher Order Functions)
 
 + Objetos: 
         [x] - Atributos e métodos; 
@@ -62,8 +66,8 @@
 
 ## MÓDULOS EM NODE.JS
 
-[x] - Importação de módulos(require, CommonJS).
-[x] - Biblioteca 'inquirer' para criar prompts interativos.
+[x] - Importação de módulos(require, CommonJS)
+[x] - Biblioteca 'inquirer' para criar prompts interativos
 
 ## PROGRAMAÇÃO ASSÍNCRONA E PROMISES
 
